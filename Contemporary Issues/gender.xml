@@ -1,0 +1,719 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>boo hoo</Author>
+  <LastAuthor>clrc</LastAuthor>
+  <Created>2008-07-03T17:46:05Z</Created>
+  <LastSaved>2009-08-12T00:49:36Z</LastSaved>
+  <Company>boohoo</Company>
+  <Version>12.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>11640</WindowHeight>
+  <WindowWidth>15480</WindowWidth>
+  <WindowTopX>555</WindowTopX>
+  <WindowTopY>1875</WindowTopY>
+  <Date1904/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Verdana"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62" ss:Name="Hyperlink">
+   <Font ss:FontName="Verdana" ss:Color="#0000FF" ss:Underline="Single"/>
+  </Style>
+  <Style ss:ID="s65">
+   <Font ss:FontName="Verdana" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="s66" ss:Parent="s62">
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Color="#0000FF"
+    ss:Underline="Single"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Names>
+   <NamedRange ss:Name="_FilterDatabase" ss:RefersTo="=Sheet1!#REF!" ss:Hidden="1"/>
+   <NamedRange ss:Name="berkeley" ss:RefersTo="=Sheet1!#REF!"/>
+  </Names>
+  <Table ss:ExpandedColumnCount="8" ss:ExpandedRowCount="59" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="54">
+   <Column ss:Index="6" ss:AutoFitWidth="0" ss:Width="54.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="75.75"/>
+   <Row>
+    <Cell><Data ss:Type="String">Gabriela</Data></Cell>
+    <Cell><Data ss:Type="String">Arredondo</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="mailto:gfarredo@ucsc.edu"><Data
+      ss:Type="String">gfarredo@ucsc.edu</Data></Cell>
+    <Cell><Data ss:Type="String">Associate Professor</Data></Cell>
+    <Cell><Data ss:Type="String">Latin American and Latino Studies</Data></Cell>
+    <Cell><Data ss:Type="String">UC Santa Cruz</Data></Cell>
+    <Cell><Data ss:Type="String">Latina/o studies; U.S. immigration history; U.S. social and cultural history; Chicana/o history; critical race and ethnicity theories; Chicana and Mexicana feminisms; “borderlands” studies; history of modern Mexico. Publications: Chicana Feminisms: Disruption in Dialogue, Gabriela F. Arredondo, Aída Hurtado, Norma Klahn, Olga Nájera-Ramírez, and Patricia Zavella, eds. Durham: Duke University Press, 2003. &quot;Grounding Feminisms Through La Vida de Inocencia,&quot; in Chicana Feminisms: Disruptions in Dialogue, eds. Gabriela F. Arredondo, Aída Hurtado, Norma Klahn, Olga Nájera-Ramírez, and Patricia Zavella, Duke University Press, 2003: 291-297. </Data></Cell>
+    <Cell><Data ss:Type="String">http://lals.ucsc.edu/directory/details.php?id=2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Alicia</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Arrizon</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="mailto:alicia.arrizon@ucr.edu"><Data
+      ss:Type="String">alicia.arrizon@ucr.edu</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chair and Professor</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Women's Studies</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">UC Riverside</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Alicia Arrizón is professor and chair of the Department of Women’s Studies at the University of California, Riverside. Her academic interests are firmly situated in contemporary cultural and performance studies, with a strong commitment to the examination of race and ethnicity and their interchange with gender and sexuality studies. Interdisciplinary concerns link her to the fields of performance and visual arts, literature, and critical race theory. She is the author of Latina Performance (Indiana University Press, 1999), designated an “Outstanding Academic Title” by Choice: Current Reviews for Academic Libraries and coauthor of Latinas on Stage (Third Woman Press, 2001). Her most recent book, Queering Mestizaje: Transculturation and Performance (published by the University of Michigan Press, 2006 and released in 2007) was awarded the fifth annual MLA Prize in United States Latina and Latino and Chicana and Chicano Literary and Cultural Studies for outstanding scholarship and ATHE 2008 Award for Outstanding Book in Theatre and Pedagogy. </Data></Cell>
+    <Cell><Data ss:Type="String">http://www.facultydirectory.ucr.edu/cgi-bin/pub/public_individual.pl?faculty=754</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Edwina</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Barbosa</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="mailto:barvosa@chicst.ucsb.edu"><Data
+      ss:Type="String">barvosa@chicst.ucsb.edu</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Associate Professor</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chicana/o Studies</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">UC Santa Barbara</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Political Philosophy, social theory, identity and intersectionality, Chicana/Latina feminist thought and gender studies</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.chicst.ucsb.edu/faculty/staff/barsova.shtml</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Emily</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Bergmann</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="mailto:elb@socrates.berkeley.edu"><Data
+      ss:Type="String">elb@socrates.berkeley.edu</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Professor</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Spanish &amp; Portuguese</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">UC Berkeley</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Hispanic Literature 16th and 17th Centuries; 20th Century Castilian and Catalan, women writers. Studies in gender and sexuality.</Data></Cell>
+    <Cell><Data ss:Type="String">http://spanish-portuguese.berkeley.edu/wp-content/uploads/2006/11/bergmann%20cv.pdf</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Maylei</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Blackwell</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="mailto:maylei@chavez.ucla.edu"><Data
+      ss:Type="String">maylei@chavez.ucla.edu</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Assistant Professor</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chicana/o Studies</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">UCLA</Data></Cell>
+    <Cell><Data ss:Type="String">Dr. Blackwell is an interdisciplinary scholar activist and oral historian whose forthcoming book on early Chicana feminism is entitled, Retrofitted Memory: Contested Histories of Gender and Feminism in the Chicano Movement. Her teaching and research also explore the possibilities and challenges of women’s transnational organizing around various axes of difference, or across what she calls Geographies of Difference.</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.chavez.ucla.edu/blackwell.htm</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Victoria</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Bomberry</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="mailto:%20victoria.bomberry@ucr.edu"><Data
+      ss:Type="String">victoria.bomberry@ucr.edu</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Assistant Professor</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ethnics Studies</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">UC Riverside</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"> indigenous movements, gender, cultural production, and mass media.</Data></Cell>
+    <Cell><Data ss:Type="String">http://ethnicstudies.ucr.edu/people/faculty/bomberry/index.html</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Tara</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Browner</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="mailto:tbrowner@ucla.edu"><Data
+      ss:Type="String">tbrowner@ucla.edu</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Associate Professor</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ethnomusicology and American Indian Studies</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">UCLA</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Native North American music and dance; Native North American contemporary music; musical imagery of Indians in popular culture; indigenous concepts of music theory; American music.</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.ethnomusic.ucla.edu/people/browner.htm</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Julianne</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Burton-Carvajal</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">julianne@ucsc.edu</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Professor</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Literature</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">UC Santa Cruz</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Twentieth- and 21st-century Latin(o) American visual media, particularly film; melodrama as a transnational form; gender and authorship; history, cultures, and representations of California, particularly the Central Coast</Data></Cell>
+    <Cell><Data ss:Type="String">http://lals.ucsc.edu/directory/details.php?id=36</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Amalia</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Cabezas</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="mailto:amalia.cabezas@ucr.edu"><Data
+      ss:Type="String">amalia.cabezas@ucr.edu</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Assistant Professor</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Women's Studies</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">UC Riverside</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ethnic Studies, Chicano and Latino Studies, Latin American and Caribbean Studies, Tourism and Leisure Studies, Sexualities Studies, Women's/Feminist/Gender Studies. </Data></Cell>
+    <Cell><Data ss:Type="String">http://www.womensstudies.ucr.edu/people/cabezas/cabezas.html</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Dolores Ines</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Casillas</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="mailto:casillas@chicst.ucsb.edu"><Data
+      ss:Type="String">casillas@chicst.ucsb.edu</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Assistant Professor</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chicana/o Studies</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">UC Santa Barbara</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">U.S. Spanish-language Media, Radio and Sound Practices, Language Politics, Migration and Masculinity, Latino Popular Culture</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.chicst.ucsb.edu/faculty/staff/casillas.shtml</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Rafaela</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Castro</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="mailto:rgcastro@ucdavis.edu"><Data
+      ss:Type="String">rgcastro@ucdavis.edu</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Retired Librarian</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Shields Library</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">UC Davis</Data></Cell>
+    <Cell><Data ss:Type="String">Ethnic Studies collection</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Angie</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chabram-Dernersesian</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="mailto:adchabramdernersesian@ucdavis.edu"><Data
+      ss:Type="String">adchabramdernersesian@ucdavis.edu</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Professor</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chicana/o Cultural Studies</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">UC Davis</Data></Cell>
+    <Cell><Data ss:Type="String">Professor Angie Chabram-Dernersesian’s current research and teaching are firmly located in Chicana/o (feminist) cultural studies, a critical intervention which she views as including representations of the body, community, health, and illness. Generally speaking, she is interested in promoting transnational/ global cultural studies networks and collaborative work teams that provide critical literacy for marginalized and subaltern communities that have not had access to higher learning and are underrepresented within the primary of circuits of cultural production.</Data></Cell>
+    <Cell><Data ss:Type="String">http://chi.ucdavis.edu/content/angie-chabram-dernersesian</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Jennifer </Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chacon</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="mailto:jmchacon@ucdavis.edu"><Data
+      ss:Type="String">jmchacon@ucdavis.edu</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Professor</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">School of Law</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">UC Davis</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">She teaches Criminal Law, Criminal Procedure and Immigration Law.She has published “Misery and Myopia: Understanding the Failures of U.S. Efforts to Stop Human Trafficking” (Fordham Law Review, 2006), the first of what would be several influential articles touching on immigration, international law, and human rights.</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.law.ucdavis.edu/faculty/Chacon/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Miroslava</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chavez-Garcia</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="mailto:chavezgarcia@ucdavis.edu"><Data
+      ss:Type="String">chavezgarcia@ucdavis.edu</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Associate Professor</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chicana/o Studies</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">UC Davis</Data></Cell>
+    <Cell><Data ss:Type="String">youth, juvenile justice, race, and science in early twentieth-century California reform schools.</Data></Cell>
+    <Cell><Data ss:Type="String">http://chi.ucdavis.edu/biography.asp?id=21</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Sergio</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">De la Mora</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="mailto:sdelamora@ucdavis.edu"><Data
+      ss:Type="String">sdelamora@ucdavis.edu</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Associate Professor</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chicana/o Studies</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">UC Davis</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Latin American and Chicano/Latino film, video and literature, third cinema, queer studies, and cultural studies, focusing primarily on racialized cultural identities and representation in Mexican and Chicana/o popular culture.</Data></Cell>
+    <Cell><Data ss:Type="String">http://chi.ucdavis.edu/content/sergio-de-la-mora</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Adela</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">De la Torre</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="mailto:adelatorre@ucdavis.edu"><Data
+      ss:Type="String">adelatorre@ucdavis.edu</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Professor and Director</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chicana/o Studies</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">UC Davis</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Adela de la Torre, an agricultural economist, is the director and Professor of Chicana/o Studies at the University of California, Davis. Dr. de la Torre's publications and research primarily focus on health care access and finance issues that affect the Latino community as well as Border health issues. In addition, she has completed studies on the impact of education on occupational location of Hispanics.</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.ucdmc.ucdavis.edu/chpr/profiles/delatorre.html</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Natalia</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Deeb-Sossa</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="mailto:ndeebsossa@ucdavis.edu"><Data
+      ss:Type="String">ndeebsossa@ucdavis.edu</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Assistant Professor</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Sociology</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">UC Davis</Data></Cell>
+    <Cell><Data ss:Type="String">women's reproductive rights and is committed to decreasing sexism, heterosexism, racism, and class inequality.</Data></Cell>
+    <Cell><Data ss:Type="String">http://sociology.ucdavis.edu/people/ndeebsos</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Linda</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Egan</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="mailto:ldegan@ucdavis.edu"><Data
+      ss:Type="String">ldegan@ucdavis.edu</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Associate Professor</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Spanish</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">UC Davis</Data></Cell>
+    <Cell><Data ss:Type="String">Colonial, 19th and 20th century women writers, especially of Mexico; discourses of postmodernism; comparative religions, including pagan</Data></Cell>
+    <Cell><Data ss:Type="String">http://spanish.ucdavis.edu/people/faculty/Egan</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Dana</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Frank</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="mailto:dlfrank@ucsc.edu"><Data ss:Type="String">dlfrank@ucsc.edu</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Professor</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">History</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">UC Santa Cruz</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">U.S. social and economic history; women, labor, and working-class history; contemporary political economy; modern Central America</Data></Cell>
+    <Cell><Data ss:Type="String">http://lals.ucsc.edu/directory/details.php?id=12</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Rosa Linda</Data></Cell>
+    <Cell><Data ss:Type="String">Fregoso</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="mailto:rfregoso@ucsc.edu"><Data
+      ss:Type="String">rfregoso@ucsc.edu</Data></Cell>
+    <Cell><Data ss:Type="String">Professor</Data></Cell>
+    <Cell><Data ss:Type="String">Latin American and Latino Studies</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">UC Santa Cruz</Data></Cell>
+    <Cell><Data ss:Type="String">Prior to joining the faculty at the University of California, Santa Cruz, I held faculty appointments at UC-Davis (Women and Gender Studies; Chicana/o Studies) and at UC-Santa Barbara in the departments of Communications and Chicano Studies. I have a PhD in the Language, Society &amp; Culture Program (Communication &amp; Literature) from the University of California, San Diego; and a BJ from the University of Texas, Austin. Before coming to Academia, I worked as a radio and television journalist. Between 1979-1982, I produced and hosted “The Mexican American Experience” for the Longhorn Radio Network (an NPR affiliate). A weekly radio-program, “The Mexican American Experience,” aired nationally on public and commercial radio stations. From 1977-79, I produced and hosted “Telecorpus,” a daily talkshow that aired on KORO-TV.</Data></Cell>
+    <Cell><Data ss:Type="String">http://lals.ucsc.edu/faculty/fregoso/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Yvette</Data></Cell>
+    <Cell><Data ss:Type="String">Flores</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="mailto:ygfloresortiz@ucdavis.edu"><Data
+      ss:Type="String">ygfloresortiz@ucdavis.edu</Data></Cell>
+    <Cell><Data ss:Type="String">Falculty Director</Data></Cell>
+    <Cell><Data ss:Type="String">Quarter Abroad Program</Data></Cell>
+    <Cell><Data ss:Type="String">UC Davis</Data></Cell>
+    <Cell><Data ss:Type="String">Professor Flores obtained her Ph.D. in clinical psychology at U.C. Berkeley in 1982.&#160; Her postdoctoral work focused on health psychology and the treatment of addictions.&#160; Her recent research and publications address the prevalence of intimate partner violence among Mexican nationals and Mexicans in the United States, the relationship between depression and IPV in rural Mexican women, and caregiving patterns of spouses and adult children of elderly with dementia.</Data></Cell>
+    <Cell><Data ss:Type="String">http://eac.ucdavis.edu/eac/staff_flores.cfm</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Alicia</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Gaspar de Alba</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="mailto:agdealba@ucla.edu"><Data
+      ss:Type="String">agdealba@ucla.edu</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chair and Professor</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chicano Studies</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">UCLA</Data></Cell>
+    <Cell><Data ss:Type="String">Chicano/a Art, Popular Culture, Border Studies, Gender &amp; Sexuality, Writing, The Maquiladora Murders</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.sscnet.ucla.edu/chavez/gaspar.html</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Sylvia</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Guendelman</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="mailto:sylviag@berkeley.edu"><Data
+      ss:Type="String">sylviag@berkeley.edu</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Associate Professor</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Public Health Program</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">UC Berkeley</Data></Cell>
+    <Cell><Data ss:Type="String">Reproductive health of immigrant women, birth outcomes and fertility regulation of immigrant women, She is currently assessing the relationship between stress, antenatal leave, and birth outcomes among working women in a project funded by the Maternal and Child Health Bureau.</Data></Cell>
+    <Cell><Data ss:Type="String">http://drph.berkeley.edu/programinfo/faculty%20profiles.html</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Lucia</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Guerra-Cunningham</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="mailto:lcunning@uci.edu"><Data ss:Type="String">lcunning@uci.edu</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Professor</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Spanish &amp; Portuguese</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">UC Irvine</Data></Cell>
+    <Cell><Data ss:Type="String">Latin American women writers, the Latin American novel, Feminist Theory, Imaginaries of the city in Latin America. As a fiction writer, Lucía Guerra intends to give voice to women's silenced experiences; in her writing she denounces social subordination and she explores the subversive power of female eroticism</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.faculty.uci.edu/Scripts/UCIFacultyProfiles/humanities/las/index.cfm?faculty_id=2762</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ellie</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Hernandez</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="mailto:ehernandez@femst.ucsb.edu"><Data
+      ss:Type="String">ehernandez@femst.ucsb.edu </Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Associate Professor</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Feminist Studies</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">UC Santa Barbara</Data></Cell>
+    <Cell><Data ss:Type="String">20th Century American literature and Cultural Studies, Chicana/o and Latina/o literature and cultural production, Gay/Lesbian studies and Queer Theory, Comparative Sexualities: U.S. Pan-Latina/o formations</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.womst.ucsb.edu/hernandez.html</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Ines</Data></Cell>
+    <Cell><Data ss:Type="String">Hernandez-Avila</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="mailto:ighernandez@ucdavis.edu"><Data
+      ss:Type="String">ighernandez@ucdavis.edu</Data></Cell>
+    <Cell><Data ss:Type="String">Professor &amp; Graduate Advisor</Data></Cell>
+    <Cell><Data ss:Type="String">Native American Studies</Data></Cell>
+    <Cell><Data ss:Type="String">UC Davis</Data></Cell>
+    <Cell><Data ss:Type="String">Native American Women's Poetry Contemporary Indigenous literature of Mexico Indigenous/Native Theater Native American Religious Traditions Native American Literature in Performance Narratives of Indigeneity</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://nas.ucdavis.edu/site/people/faculty/ihernandezavila.html"><Data
+      ss:Type="String">http://nas.ucdavis.edu/site/people/faculty/ihernandezavila.html</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Maria</Data></Cell>
+    <Cell><Data ss:Type="String">Herrera-Sobek</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="mailto:maria.sobek@evc.ucsb.edu"><Data
+      ss:Type="String">maria.sobek@evc.ucsb.edu</Data></Cell>
+    <Cell><Data ss:Type="String">Professor</Data></Cell>
+    <Cell><Data ss:Type="String">Chicana/o Studies</Data></Cell>
+    <Cell><Data ss:Type="String">UC Santa Barbara</Data></Cell>
+    <Cell><Data ss:Type="String">Film Documentaries, Nationalist and Ethnic Construction Theories, Theories on Aesthetic Activism</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://www.chicst.ucsb.edu/faculty/staff/sobek.shtml</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Aida</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Hurtado</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="mailto:aida@ucsc.edu"><Data ss:Type="String">aida@ucsc.edu</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Professor</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Psychology</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">UC Santa Cruz</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Aida Hurtado's research focuses on the effects of subordination on social identity, the part of the self that is related to significant group memberships. She is especially interested in those group memberships (e.g., ethnicity, race, class, and gender) that are derogated in this society and are used to legitimate unequal distribution of power between groups.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://psych.ucsc.edu/directory/details.php?id=14</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Norma</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Klahn</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="mailto:nklahn@ucsc.edu"><Data ss:Type="String">nklahn@ucsc.edu</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Professor</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Literature</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">UC Santa Cruz</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Latin American literary and cultural studies (specialization: Mexico); Chicano/Latino literature and culture from a cross-border perspective; modernity/postmodernity; poetics and politics; genre theory (novel, poetry, autobiography); contemporary critical theories (i.e., border, ethnic, feminist, transnational/global).</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://literature.ucsc.edu/directory/details.php?id=44</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Amy</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Lonetree</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="mailto:lonetree@ucsc.edu"><Data
+      ss:Type="String">lonetree@ucsc.edu</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Assistant Professor</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">American Studies</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">UC Santa Cruz</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Indigenous History, Museum Studies, Memory and American History, Native American Cultural Production, Public History, and Ho-Chunk Tribal History</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://americanstudies.ucsc.edu/lonetree.html</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Tiffany</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Lopez</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="mailto:tiffany.lopez@ucr.edu"><Data
+      ss:Type="String">tiffany.lopez@ucr.edu</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Associate Professor and Director</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">English</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">UC Riverside</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chicana/o children’s literature; Chicana/o autobiography and social protest; trauma narratives in Latina/o literature; African American and Latina/o prison narratives; discourses of violence in drama and performance; and the evolution of Chicana feminist theory and literature</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://english.ucr.edu/people/faculty/lopez/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Elizabeth </Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Marchant</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="mailto:marchant@ucla.edu"><Data
+      ss:Type="String">marchant@ucla.edu</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Associate Professor</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Spanish &amp; Portuguese, Women's Studies</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">UCLA</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Latin American Women and Cultural Expression</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.womensstudies.ucla.edu/faculty_marchant.html"><Data
+      ss:Type="String">http://www.womensstudies.ucla.edu/faculty_marchant.html</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Desiree</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Martin</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="mailto:dmartin@ucdavis.edu"><Data
+      ss:Type="String">dmartin@ucdavis.edu</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Assistant Professor</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">English</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">UC Davis</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Latino/a studies, U.S.-Mexico border studies, and Inter-American studies</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://english.ucdavis.edu/people/directory/dmartin</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Natalia </Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Molina</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="mailto:nmolina@weber.ucsd.edu"><Data
+      ss:Type="String">nmolina@weber.ucsd.edu</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Associate Professor</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ethnics Studies</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">UC San Diego</Data></Cell>
+    <Cell><Data ss:Type="String">Molina's first book, Fit to be Citizens? Public Health and Race in Los Angeles, 1879-1939, explored ways in which race is constructed relationally and regionally. In that work, she argued that race must be understood comparatively. Her current book project, Racial Amnesia: The Search for a Usable Past, extends that argument to a different site, immigration. She investigates how Americans from various regions and disparate backgrounds went about creating and understanding racial categories during a period of peak immigration in the early twentieth century</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://www.ethnicstudies.ucsd.edu/faculty/molina.shtml</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Jennifer Rose</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Najera</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="mailto:%20jennifer.najera@ucr.edu"><Data
+      ss:Type="String">jennifer.najera@ucr.edu</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Assistant Professor</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ethnics Studies</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">UC Riverside</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Research areas: Theories and practices of Chicana feminisms, The evolving social relationships between Mexican Americans and Mexican immigrants</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://ethnicstudies.ucr.edu/people/faculty/najera/index.html</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Marcia</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ochoa</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="mailto:marcia8a@ucsc.edu"><Data
+      ss:Type="String">marcia8a@ucsc.edu</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Assistant Professor</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Community Studies</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">UC Santa Cruz</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Gender and sexuality, race and ethnicity, Latina/o studies, media and cultural studies, ethnography of media, feminism, queer theory, multimedia production, Latin American studies—Colombia and Venezuela, political philosophy, geography.</Data></Cell>
+    <Cell><Data ss:Type="String">http://lals.ucsc.edu/directory/details.php?id=24</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Lorena</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Oropeza</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="mailto:lboropeza@ucdavis.edu"><Data
+      ss:Type="String">lboropeza@ucdavis.edu</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Associate Professor</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">History</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">UC Davis</Data></Cell>
+    <Cell><Data ss:Type="String">Chicano/a History; History of American Foreign Relations</Data></Cell>
+    <Cell><Data ss:Type="String">http://history.ucdavis.edu/faculty/Oropeza_Lorena</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Laura</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Perez</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="mailto:leperez@berkeley.edu"><Data
+      ss:Type="String">leperez@berkeley.edu</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Associate Professor</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chicana/o Studies</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">UC Berkeley</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Laura Elisa Pérez is an Associate Professor in the departments of Ethnic Studies and, Spanish and Portuguse. Her teaching and research are in contemporary U.S. Latina and Latin American women's writing; Chicana/o literature and visual arts; and contemporary cultural theory. Some of her published or forthcoming publications include: &quot;Reconfiguring Nation and Identity: U.S. Latin and Latin American Women's Oppositional Writings,&quot; &quot;Reflections and Confessions on the 'Minority' and Post-Colonial Immigrant ID Tour,&quot; &quot;For Love and Theory: An Ofrenda,&quot; and &quot;El desorden, Nationalism, and Chicana/o Aesthetics.&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">http://ethnicstudies.berkeley.edu/faculty/perez/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Beatriz</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Pesquera</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="mailto:bmpesquera@ucdavis.edu"><Data
+      ss:Type="String">bmpesquera@ucdavis.edu</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Associate Professor Emerita</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chicana/o Studies</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">UC Davis</Data></Cell>
+    <Cell><Data ss:Type="String">Gender; family; women's labor</Data></Cell>
+    <Cell><Data ss:Type="String">http://quarterabroad.ucdavis.edu/program_havana_courses.cfm</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Beth</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Piatote</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="mailto:piatote@berkeley.edu"><Data
+      ss:Type="String">piatote@berkeley.edu</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Assistant Professor</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Native American Studies</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">UC Berkeley</Data></Cell>
+    <Cell><Data ss:Type="String">Native American/First Nations literature and law and American cultural studies</Data></Cell>
+    <Cell><Data ss:Type="String">http://ethnicstudies.berkeley.edu/faculty/piatote/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Michelle</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Raheja</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="mailto:Michelle.Raheja@ucr.edu"><Data
+      ss:Type="String">Michelle.Raheja@ucr.edu</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Assistant Professor</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">English</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">UC Riverside</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Professor Raheja’s area of research is Native American literature, with a special interest in autobiography and film and visual culture. Her training and teaching cover all periods and genres of American literature up to the present, with a special emphasis on literature covering the period from oral narrative to 1630, autobiography, comparative minority discourses, critical race theory, and film and visual culture.</Data></Cell>
+    <Cell><Data ss:Type="String">http://english.ucr.edu/people/faculty/raheja/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Catherine</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ramirez</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="mailto:cathysue@ucsc.edu"><Data
+      ss:Type="String">cathysue@ucsc.edu</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Assistant Professor</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">American Studies</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">UC Santa Cruz</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chicana and U.S. Latino literature and history; gender studies and feminist theory; visual culture and style politics; cultural studies; popular and urban youth cultures; speculative fiction, comparative American studies.</Data></Cell>
+    <Cell><Data ss:Type="String">http://lals.ucsc.edu/directory/details.php?id=46</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Renya</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ramirez</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="mailto:renya@ucsc.edu"><Data ss:Type="String">renya@ucsc.edu</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Associate Professor</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">American Studies</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">UC Santa Cruz</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Urban Native Americans, diaspora, transnationalism, Native feminisms, gender and cultural citizenship, and relationship between Native Americans and anthropology, and anti-racist education.</Data></Cell>
+    <Cell><Data ss:Type="String">http://americanstudies.ucsc.edu/rramirez.html</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ruby</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Rich</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="mailto:brrich@ucsc.edu"><Data ss:Type="String">brrich@ucsc.edu</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Professor</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Community Studies</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">UC Santa Cruz</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Documentary film and video, post-9/11 culture, new queer cinema, feminist film history, Latin American and Latin/a cinema, U.S. independent film and video, the essay film, the politics of film festival proliferation and the marketing of foreign films in the U.S.</Data></Cell>
+    <Cell><Data ss:Type="String">http://lals.ucsc.edu/directory/details.php?id=72</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Juana Maria</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Rodriguez</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="mailto:juarodriguez@berkeley.edu"><Data
+      ss:Type="String">juarodriguez@berkeley.edu</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Associate Professor</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Gender &amp; Women's Studies</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">UC Berkeley</Data></Cell>
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40">Juana Maria Rodriguez is Associate Professor of Gender and Women's Studies at UC Berkeley. She is the author of <I>Queer Latinidad: Identity Practices, Discursive Spaces</I><Font> (NYU 2003) and has published numerous articles related to her research interests in sexuality studies, queer activism in a transnational context, critical race theory, technology and media arts, and Latin@ and Caribbean studies.</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://womensstudies.berkeley.edu/faculty/rodriguez.html"><Data
+      ss:Type="String">http://womensstudies.berkeley.edu/faculty/rodriguez.html</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Laura</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Romo</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="mailto:lromo@education.ucsb.edu"><Data
+      ss:Type="String">&#160;lromo@education.ucsb.edu</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Associate Professor</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Graduate School of Education</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">UC Santa Barbara</Data></Cell>
+    <Cell><Data ss:Type="String">Adolescent development; Mother-adolescent communication; Youth and sexuality; Adolescent pregnancy prevention; Informal science/health education; Concept acquisition</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">http://education.ucsb.edu/Faculty-Research/Faculty-Listing/bio.php?first=Laura&amp;last=Romo</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Horacio N.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Roque Ramirez</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="mailto:roqueramirez@chicst.ucsb.edu"><Data
+      ss:Type="String">roqueramirez@chicst.ucsb.edu</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Assistant Professor</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chicano Studies</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">UC Santa Barbara</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Queer latina/o communities histories, oral history, community archival practices and Central American studies.</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">http://www.chicst.ucsb.edu/faculty/staff/ramirez.shtml</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ana Elizabeth </Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Rosas</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="mailto:arosas1@uci.edu"><Data ss:Type="String">arosas1@uci.edu</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Assistant Professor</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chicano/Latino Studies</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">UC Irvine</Data></Cell>
+    <Cell><Data ss:Type="String">Chicana/o History; Comparative Immigration and Ethnic History; Gender Studies; and Oral History</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.faculty.uci.edu/profile.cfm?faculty_id=5473</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Vicki</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ruiz</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="mailto:vruiz@uci.edu"><Data ss:Type="String">vruiz@uci.edu</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Dean</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">School of Humanities</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">UC Irvine</Data></Cell>
+    <Cell><Data ss:Type="String">20th century U.S. history specializing in Chicana/o studies, Latina history, oral narratives, gender studies, labor, as well as California and the West.</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.hnet.uci.edu/history/faculty/ruiz/"><Data
+      ss:Type="String">http://www.hnet.uci.edu/history/faculty/ruiz/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Rosaura</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Sanchez</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="mailto:rasanchez@ucsd.edu"><Data
+      ss:Type="String">rasanchez@ucsd.edu</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Professor</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Literature</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">UC San Diego</Data></Cell>
+    <Cell><Data ss:Type="String">Latin American Literature and Chicano Literature: Critical Theory; Cultural Studies; Third World Studies; Gender Studies.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://literature.ucsd.edu/faculty/rsanchez.cfm</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chela</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Sandoval</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="mailto:sandoval@chicst.ucsb.edu"><Data
+      ss:Type="String">sandoval@chicst.ucsb.edu</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Associate Professor</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chicano Studies</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">UC Santa Barbara</Data></Cell>
+    <Cell><Data ss:Type="String">Cyber and millennial studies, Third space feminism, Critical media theory and production, Oppositional consciousness, Social movement</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://www.chicst.ucsb.edu/faculty/staff/sandoval.shtml</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Felicity</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Schaeffer-Grabiel</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="mailto:fsg@ucsc.edu"><Data ss:Type="String">fsg@ucsc.edu</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Assistant Professor</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Feminist Studies</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">UC Santa Cruz</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Transnational feminism, migration, Latin American/Latino studies, Chicana/o studies, Internet, technology and the body, sexuality, gender and globalization</Data></Cell>
+    <Cell><Data ss:Type="String">http://lals.ucsc.edu/directory/details.php?id=29</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Raquel </Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Scherr-Salgado</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="mailto:rlscherr@ucdavis.edu"><Data
+      ss:Type="String">rlscherr@ucdavis.edu</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Lecturer</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">University Writing Program</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">UC Davis</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Denise </Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Segura</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="mailto:segura@soc.ucsb.edu"><Data
+      ss:Type="String">segura@soc.ucsb.edu </Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Professor</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Sociology </Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">UC Santa Barbara</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Gender; feminist studies; Chicano/a studies; race relations; work and community studies</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.soc.ucsb.edu/segura.htm</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Andrea</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Smith</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="mailto:andy.smith@ucr.edu"><Data
+      ss:Type="String">andy.smith@ucr.edu</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Assistant Professor</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Media and Cultural Studies</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">UC Riverside</Data></Cell>
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40">Professor Smith received her Ph.D. in History of Consciousness at UC Santa Cruz in 2002. &#160;Previously, she taught in the Program in American Culture at the University of Michigan. Her publications include: <I>Native Americans and the Christian Right: The Gendered Politics of Unlikely Alliances</I><Font> and </Font><I>Conquest: Sexual Violence and American Indian Genocide</I><Font>. She is also the editor of </Font><I>The Revolution Will Not Be Funded: Beyond the Nonprofit Industrial Complex</I><Font>, and co-editor of </Font><I>The Color of Violence, The Incite! Anthology</I><Font>.</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String">http://mediaandculturalstudies.ucr.edu/people/faculty/index.html</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Gabriela</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Soto Laveaga</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="mailto:gsotolaveaga@history.ucsb.edu"><Data
+      ss:Type="String">gsotolaveaga@history.ucsb.edu</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Associate Professor</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">History</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">UC Santa Barbara</Data></Cell>
+    <Cell><Data ss:Type="String">Soto Laveaga is an historian of Latin America specializing in modern Mexico. She is currently finishing a project on campesino knowledge production and bioprospecting during the Luis Echeverria administration. She also has a new project underway on public health and social movements in Mexico City.</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.history.ucsb.edu/people/person.php?account_id=51</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Cristina</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Venegas</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">venegas@filmandmedia.ucsb.edu</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Assistant Professor</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Film and Media Studies</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">UC  Santa Barbara</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Cristina Venegas focuses her research on international media with an emphasis on Latin America, Spanish-language film and television in the U.S., and digital technologies. She has written about film and political culture, revolutionary imagination in the Americas, telenovelas, contemporary Latin American cinema, co-productions and a monograph dealing with cyberculture in Cuba.</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.filmandmedia.ucsb.edu/people/faculty/professors/venegas/venegas.html</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Tara</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Yosso</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="mailto:yosso@chicst.ucsb.edu"><Data
+      ss:Type="String">yosso@chicst.ucsb.edu</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Associate Professor</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chicana/o Studies</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">UC Santa Barbara</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Critical Race Theory (CRT &amp; LatCrit), Educational Access &amp; Equity, Campus Racial and Gender Climate, Critical Media Literacy, Racial and Gender Microaggressions</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.chicst.ucsb.edu/faculty/staff/yosso.shtml</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Patricia</Data></Cell>
+    <Cell><Data ss:Type="String">Zavella</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="mailto:zavella@ucsc.edu"><Data ss:Type="String">zavella@ucsc.edu</Data></Cell>
+    <Cell><Data ss:Type="String">Professor &amp; Chair</Data></Cell>
+    <Cell><Data ss:Type="String">Latin American and Latino Studies</Data></Cell>
+    <Cell><Data ss:Type="String">UC Santa Cruz</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chicana/o-Latina/o studies, women's work and domestic labor, poverty, family, sexuality and social networks, feminist studies, ethnographic research methods, and transnational migration of Mexicana/o workers and U.S. capital</Data></Cell>
+    <Cell><Data ss:Type="String">http://lals.ucsc.edu/directory/details.php?id=9</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>-4</HorizontalResolution>
+    <VerticalResolution>-4</VerticalResolution>
+   </Print>
+   <Selected/>
+   <TopRowVisible>27</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>34</ActiveRow>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+   <x:PageLayoutZoom>0</x:PageLayoutZoom>
+  </WorksheetOptions>
+  <Sorting xmlns="urn:schemas-microsoft-com:office:excel">
+   <Sort>Column B</Sort>
+  </Sorting>
+ </Worksheet>
+</Workbook>

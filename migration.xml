@@ -1,0 +1,426 @@
+<?xml version="1.0"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>boo hoo</Author>
+  <LastAuthor>boo hoo</LastAuthor>
+  <Created>2008-07-03T17:46:05Z</Created>
+  <LastSaved>2008-07-16T20:45:12Z</LastSaved>
+  <Company>boohoo</Company>
+  <Version>12.0</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>13760</WindowHeight>
+  <WindowWidth>18080</WindowWidth>
+  <WindowTopX>560</WindowTopX>
+  <WindowTopY>1880</WindowTopY>
+  <Date1904/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Verdana"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Names>
+   <NamedRange ss:Name="_FilterDatabase" ss:RefersTo="=Sheet1!#REF!" ss:Hidden="1"/>
+  </Names>
+  <Table ss:ExpandedColumnCount="8" ss:ExpandedRowCount="36" x:FullColumns="1"
+   x:FullRows="1">
+   <Row>
+    <Cell><Data ss:Type="String">Gabriela F.</Data></Cell>
+    <Cell><Data ss:Type="String">Arredondo</Data></Cell>
+    <Cell><Data ss:Type="String">gfarredo@ucsc.edu</Data></Cell>
+    <Cell><Data ss:Type="String">Associate Professor</Data></Cell>
+    <Cell><Data ss:Type="String">Latin American and Latino Studies</Data></Cell>
+    <Cell><Data ss:Type="String">UC Santa Cruz</Data></Cell>
+    <Cell><Data ss:Type="String">Latina/o studies; U.S. immigration history; U.S. social and cultural history; Chicana/o history; critical race and ethnicity theories; Chicana and Mexicana feminisms; “borderlands” studies; history of modern Mexico</Data></Cell>
+    <Cell><Data ss:Type="String">http://lals.ucsc.edu/directory/details.php?id=2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Irene </Data></Cell>
+    <Cell><Data ss:Type="String">Bloemraad</Data></Cell>
+    <Cell><Data ss:Type="String">bloemr@berkeley.edu</Data></Cell>
+    <Cell><Data ss:Type="String"> Assistant Professor</Data></Cell>
+    <Cell><Data ss:Type="String">Sociology</Data></Cell>
+    <Cell><Data ss:Type="String">UC Berkeley</Data></Cell>
+    <Cell><Data ss:Type="String">Irene Bloemraad (Ph.D. Harvard; M.A. McGill) studies the nexus between immigration and the political system. Her recently published book, Becoming a Citizen, compares immigrants’ acquisition of citizenship and political participation in the United States and Canada.  Bloemraad argues that government settlement and multiculturalism policies influence newcomers’ practice and understanding of citizenship, and such policies have lead to better outcomes in political incorporation in Canada over the last thirty years than in the United States.  In the context of current debates around immigration in the United States, her work suggests that any effective immigration policy must examine not just border control, but also integration and settlement policies. </Data></Cell>
+    <Cell><Data ss:Type="String">http://sociology.berkeley.edu/faculty/bloemraad/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Jennifer M.</Data></Cell>
+    <Cell><Data ss:Type="String">Chacón</Data></Cell>
+    <Cell><Data ss:Type="String">jmchacon@ucdavis.edu</Data></Cell>
+    <Cell><Data ss:Type="String">Acting Professor of Law</Data></Cell>
+    <Cell><Data ss:Type="String">School of Law</Data></Cell>
+    <Cell><Data ss:Type="String">UC Davis</Data></Cell>
+    <Cell><Data ss:Type="String">Jennifer Chacon was awarded her J.D. from Yale Law School. After graduation, she served as a law clerk to the Honorable Sidney R. Thomas, U.S. Court of Appeals for the Ninth Circuit. From 1999-2003, she was an attorney with Davis Polk &amp; Wardwell in New York City. She teaches Criminal Law, Criminal Procedure and Immigration Law.</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.law.ucdavis.edu/faculty/chacon.shtml</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Miroslava</Data></Cell>
+    <Cell><Data ss:Type="String">Chávez-García</Data></Cell>
+    <Cell><Data ss:Type="String">chavezgarcia@ucdavis.edu</Data></Cell>
+    <Cell><Data ss:Type="String">Associate Professor</Data></Cell>
+    <Cell><Data ss:Type="String">Chicana/o Studies</Data></Cell>
+    <Cell><Data ss:Type="String">UC Davis</Data></Cell>
+    <Cell><Data ss:Type="String">Her current research interests and publications focus on youth, juvenile justice, race, and science in early twentieth-century California reform schools. Currently, she teaches courses on Chicana/o history, Latina/o history, race and juvenile justice, U.S.-Mexico border relations, and research methodologies.</Data></Cell>
+    <Cell><Data ss:Type="String">http://chi.ucdavis.edu/biography.asp?id=21</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Wayne</Data></Cell>
+    <Cell><Data ss:Type="String">Cornelius</Data></Cell>
+    <Cell><Data ss:Type="String">wcorneli@ucsd.edu</Data></Cell>
+    <Cell><Data ss:Type="String">Director</Data></Cell>
+    <Cell><Data ss:Type="String">Center for Comparative Immigration Studies</Data></Cell>
+    <Cell><Data ss:Type="String">UC San Diego</Data></Cell>
+    <Cell><Data ss:Type="String">Political economy of immigration, immigration policy in advanced industrial nations, U.S.-Mexican relations, Mexican politics</Data></Cell>
+    <Cell><Data ss:Type="String">http://ccis.ucsd.edu/expert_sheets/cornelius_es.htm</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">David</Data></Cell>
+    <Cell><Data ss:Type="String">Fitzgerald</Data></Cell>
+    <Cell><Data ss:Type="String">dfitzgerald@ucsd.edu</Data></Cell>
+    <Cell><Data ss:Type="String">Postdoctoral Fellow and Field Research Director</Data></Cell>
+    <Cell><Data ss:Type="String">Center for Comparative Immigration Studies</Data></Cell>
+    <Cell><Data ss:Type="String">UC San Diego</Data></Cell>
+    <Cell><Data ss:Type="String">International migration, nationalism, transnationalism</Data></Cell>
+    <Cell><Data ss:Type="String">http://ccis.ucsd.edu/expert_sheets/fitzgerald.htm</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Jonathan</Data></Cell>
+    <Cell><Data ss:Type="String">Fox</Data></Cell>
+    <Cell><Data ss:Type="String">jafox@ucsc.edu</Data></Cell>
+    <Cell><Data ss:Type="String">Professor</Data></Cell>
+    <Cell><Data ss:Type="String">Latin American and Latino Studies</Data></Cell>
+    <Cell><Data ss:Type="String">UC Santa Cruz</Data></Cell>
+    <Cell><Data ss:Type="String">Latin American and Latino politics, including issues of democratization, accountability, social movements, transnational civil society, social and environmental policy, and immigration.</Data></Cell>
+    <Cell><Data ss:Type="String">http://lals.ucsc.edu/directory/details.php?id=5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">James</Data></Cell>
+    <Cell><Data ss:Type="String">Grieshop</Data></Cell>
+    <Cell><Data ss:Type="String">jigrieshop@ucdavis.edu</Data></Cell>
+    <Cell><Data ss:Type="String">Specialist in Cooperative Extension</Data></Cell>
+    <Cell><Data ss:Type="String">Human and Community Development</Data></Cell>
+    <Cell><Data ss:Type="String">UC Davis</Data></Cell>
+    <Cell><Data ss:Type="String">(1) community leadership, (2) risk perception and health and safety, (3) non-formal education, and (4) communication and adoption of innovations. Recent projects have included studies and outreach education dealing with Hispanic leadership, risk perceptions and occupational safety among farmworkers, the transnational connections of Mixtec farmworkers in California, and user adoption of research based agricultural practices. The dissemination of information through Spanish-language media and video formats is a hallmark of Grieshop's outreach program.</Data></Cell>
+    <Cell><Data ss:Type="String">http://hcd.ucdavis.edu/faculty/webpages/grieshop/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Ramón</Data></Cell>
+    <Cell><Data ss:Type="String">Grosfoguel</Data></Cell>
+    <Cell><Data ss:Type="String">grosfogu@berkeley.edu</Data></Cell>
+    <Cell><Data ss:Type="String">Associate Professor</Data></Cell>
+    <Cell><Data ss:Type="String">Chicano Studies</Data></Cell>
+    <Cell><Data ss:Type="String">UC Berkeley</Data></Cell>
+    <Cell><Data ss:Type="String">Ethnic/Racial Studies, Latino Studies, International Migration, Caribbean, Latin American and Southeast Asian Societies, International Comparative Development, World-Systems, Urban Sociology, Global Cities, Caribbean Migrants in the United States and Western Europe.</Data></Cell>
+    <Cell><Data ss:Type="String">http://ethnicstudies.berkeley.edu/faculty/grosfoguel/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Luis</Data></Cell>
+    <Cell><Data ss:Type="String">Guarnizo</Data></Cell>
+    <Cell><Data ss:Type="String">leguarnizo@ucdavis.edu</Data></Cell>
+    <Cell><Data ss:Type="String">Associate Professor</Data></Cell>
+    <Cell><Data ss:Type="String">Human and Community Development</Data></Cell>
+    <Cell><Data ss:Type="String">UC Davis</Data></Cell>
+    <Cell><Data ss:Type="String">Economic Sociology, transnational migration, immigrant entrepreneurs, comparative international</Data></Cell>
+    <Cell><Data ss:Type="String">http://hcd.ucdavis.edu/faculty/webpages/guarnizo/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Sylvia </Data></Cell>
+    <Cell><Data ss:Type="String">Guendelman</Data></Cell>
+    <Cell><Data ss:Type="String">sylviag@berkeley.edu</Data></Cell>
+    <Cell><Data ss:Type="String">Professor</Data></Cell>
+    <Cell><Data ss:Type="String">Community Health and Human Development </Data></Cell>
+    <Cell><Data ss:Type="String">UC Berkeley</Data></Cell>
+    <Cell><Data ss:Type="String">Reproductive health of immigrant women; reproductive health of working women; access to health care for disadvantaged populations, including the working poor and immigrants; health along the US-Mexico border; social disparities and health; juvenile asthma</Data></Cell>
+    <Cell><Data ss:Type="String">http://chhd.berkeley.edu/Guendelman.html</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">David</Data></Cell>
+    <Cell><Data ss:Type="String">Gutierrez</Data></Cell>
+    <Cell><Data ss:Type="String">dggutierrez@ucsd.edu</Data></Cell>
+    <Cell><Data ss:Type="String">Professor</Data></Cell>
+    <Cell><Data ss:Type="String">History</Data></Cell>
+    <Cell><Data ss:Type="String">UC San Diego</Data></Cell>
+    <Cell><Data ss:Type="String">David Guitierrez focuses on Chicano history, comparative immigration and ethnicity, and the history of the citizenship. His current work focuses on the dynamic historical tension between citizens and non-citizens in the United States over the course of the twentieth century. Exploring how the forces of global capitalism often trumped the interests of exclusive nationalists in the American context, he examines the changing definition of citizenship over time, the shifting contours of the international debate over immigration, and the growing importance of non-citizens in contemporary life.</Data></Cell>
+    <Cell><Data ss:Type="String">http://historyweb.ucsd.edu/pages/people/faculty%20pages/DGutierrez.html</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Gordon</Data></Cell>
+    <Cell><Data ss:Type="String">Hanson</Data></Cell>
+    <Cell><Data ss:Type="String">gohanson@ucsd.edu</Data></Cell>
+    <Cell><Data ss:Type="String">Professor</Data></Cell>
+    <Cell><Data ss:Type="String">Economics</Data></Cell>
+    <Cell><Data ss:Type="String">UC San Diego</Data></Cell>
+    <Cell><Data ss:Type="String">His  current research examines the international migration of high-skilled labor, the causes of Mexican migration to the United States, the consequences of immigration on labor-market outcomes in the United States, the relationship between business cycles and global outsourcing, and international trade in motion pictures.  In recent work, he has studied the impact of globalization on wages, the origins of political opposition to immigration, and the implications of China's growth for the export performance of Mexico and other developing countries.  His most recent book is  Why Does Immigration Divide America?  Public Finance and Political Opposition to Open Borders (Institute for International Economics, 2005).</Data></Cell>
+    <Cell><Data ss:Type="String">http://irpshome.ucsd.edu/faculty/gohanson/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Ruben</Data></Cell>
+    <Cell><Data ss:Type="String">Hernandez-Leon</Data></Cell>
+    <Cell><Data ss:Type="String">rubenhl@soc.ucla.edu</Data></Cell>
+    <Cell><Data ss:Type="String">Assistance Profesor</Data></Cell>
+    <Cell><Data ss:Type="String">Sociology</Data></Cell>
+    <Cell><Data ss:Type="String">UCLA</Data></Cell>
+    <Cell><Data ss:Type="String">International migration and immigration, border and diaspora studies, Mexico, Latin America.</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.soc.ucla.edu/people/faculty?lid=1322</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Raúl</Data></Cell>
+    <Cell><Data ss:Type="String">Hinojosa-Ojeda</Data></Cell>
+    <Cell><Data ss:Type="String">raulhinojosa@comcast.net</Data></Cell>
+    <Cell><Data ss:Type="String">Associate Professor</Data></Cell>
+    <Cell><Data ss:Type="String">Chicana/o Studies</Data></Cell>
+    <Cell><Data ss:Type="String">UCLA</Data></Cell>
+    <Cell><Data ss:Type="String">He is the author of numerous articles and books on the political economy of regional integrations in various parts of the world, including trade, investment and migration relations between the U.S., Mexico, Latin American and the Pacific Rim. He is co-author of Latinos in a Changing U.S. Economy: Comparative Perspectives on the U.S. Labor Market Since 1939 (New York: IUP/CUNY, 1991) and co-editor of Labor Market Interdependence between the United States and Mexico (Stanford: Stanford University Press, 1992).He has recently completed a book on the political economy of U.S.-Latin American relations in the late twentieth century including the impact of a potential Free Trade of the Americas Agreement ( Convergence and Divergence between NAFTA, Chile, and MERCOSUR: Overcoming Dilemmas of North and South American Economic Integration . Washington, DC: Inter-American Development Bank, 1997).</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.chavez.ucla.edu/raulhinjosaojeda.htm</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Kevin R.</Data></Cell>
+    <Cell><Data ss:Type="String">Johnson</Data></Cell>
+    <Cell><Data ss:Type="String">krjohnson@ucdavis.edu</Data></Cell>
+    <Cell><Data ss:Type="String">Dean, Professor of Law and Chicana/o Studies, and Mabie-Apallas Public Interest Law Chair</Data></Cell>
+    <Cell><Data ss:Type="String">School of Law</Data></Cell>
+    <Cell><Data ss:Type="String">UC Davis</Data></Cell>
+    <Cell><Data ss:Type="String">Kevin R. Johnson is currently Dean, Professor of Law and Chicana/o Studies, and the Mabie-Apallas Public Interest Law Chair holder at the University of California at Davis. From 1998-2008, he served as the Associate Dean for Academic Affairs. He has published extensively on immigration law and policy, racial identity, and civil rights in national and international journals. Dean Johnson's book How Did You Get to Be Mexican? A White/Brown Man's Search for Identity was published in 1999 and was nominated for the 2000 Robert F. Kennedy Book Award. He also has published Race, Civil Rights, and American Law A Multiracial Approach and Mixed Race America and the Law: A Reader (2002). The &quot;Huddled Masses&quot; Myth Immigration and Civil Rights (2004).</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.law.ucdavis.edu/faculty/johnson.shtml</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Susanne</Data></Cell>
+    <Cell><Data ss:Type="String">Jonas</Data></Cell>
+    <Cell><Data ss:Type="String">sjonas@ucsc.edu</Data></Cell>
+    <Cell><Data ss:Type="String">Lecturer</Data></Cell>
+    <Cell><Data ss:Type="String">Latin American and Latino Studies</Data></Cell>
+    <Cell><Data ss:Type="String">UC Santa Cruz</Data></Cell>
+    <Cell><Data ss:Type="String">Latin American immigration and Latino communities in the U.S., comparative Latin American politics, contemporary Central America, Central American binational organizing, U.S.-Latin American cross-border issues, U.S. foreign policy in Latin America, the Left in Latin America, comparative peace processes in Central America and worldwide.</Data></Cell>
+    <Cell><Data ss:Type="String">http://lals.ucsc.edu/directory/details.php?id=7</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">David</Data></Cell>
+    <Cell><Data ss:Type="String">Kyle</Data></Cell>
+    <Cell><Data ss:Type="String">djkyle@ucdavis.edu</Data></Cell>
+    <Cell><Data ss:Type="String">Associate Professor</Data></Cell>
+    <Cell><Data ss:Type="String"> Sociology</Data></Cell>
+    <Cell><Data ss:Type="String">UC Davis</Data></Cell>
+    <Cell><Data ss:Type="String">Economic Sociology, Cultural Sociology, Global Comparative Sociology; International Migration and Ethnicity;  Transnational Social Deviance and Crime.</Data></Cell>
+    <Cell><Data ss:Type="String">http://sociology.ucdavis.edu/people/djkyle</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">April</Data></Cell>
+    <Cell><Data ss:Type="String">Linton</Data></Cell>
+    <Cell><Data ss:Type="String">aplinton@ucsd.edu</Data></Cell>
+    <Cell><Data ss:Type="String">Assistant Professor</Data></Cell>
+    <Cell><Data ss:Type="String">Sociology</Data></Cell>
+    <Cell><Data ss:Type="String">UC San Diego</Data></Cell>
+    <Cell><Data ss:Type="String">She works in three main areas: political sociology, migration and development, and comparative social change. Her research topics encompass Spanish-English bilingualism in the United States; the movement to promote coffee production that is sustainable for workers and the environment; and (with Terry Boswell) patterns of revolutions that incite large-scale social transformations. Her forthcoming publications include A Critical Mass Model of Bilingualism among US-Born Hispanics, (Social Forces), A Taste of Trade Justice: Marketing Global Social Responsibility via Fair Trade Coffee (with Cindy Liou and Kelly Ann Shaw, Globalizations), and Learning in Two Languages: Spanish-English Immersion in U.S. Public Schools (International Journal of Sociology and Social Policy). She is working on a book about dual-language education.</Data></Cell>
+    <Cell><Data ss:Type="String">http://sociology.ucsd.edu/faculty/Linton.htm</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">David</Data></Cell>
+    <Cell><Data ss:Type="String">Lopez</Data></Cell>
+    <Cell><Data ss:Type="String">dlopez@soc.ucla.edu</Data></Cell>
+    <Cell><Data ss:Type="String">Professor</Data></Cell>
+    <Cell><Data ss:Type="String">Sociology</Data></Cell>
+    <Cell><Data ss:Type="String">UCLA</Data></Cell>
+    <Cell><Data ss:Type="String">Immigration and Ethnicity, Latin American studies, sociology of language.</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.soc.ucla.edu/people/faculty?lid=270</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Kelly</Data></Cell>
+    <Cell><Data ss:Type="String">Lytle Hernandez</Data></Cell>
+    <Cell><Data ss:Type="String">hernandez@history.ucla.edu</Data></Cell>
+    <Cell><Data ss:Type="String">Assistant Professor</Data></Cell>
+    <Cell><Data ss:Type="String">History</Data></Cell>
+    <Cell><Data ss:Type="String">UCLA</Data></Cell>
+    <Cell><Data ss:Type="String">Professor Lytle Hernandez received her Ph.D. from UCLA in 2002. She was a UC President's Postdoctoral Fellow in the Department of Ethnic Studies at the University of California, San Diego before joining the UCLA faculty in 2004. Her research interests are in twentieth-century U.S. history with a concentration upon race, migration, and state violence. She is currently completing a book project entitled, &quot;MIGRA! A History of the U.S. Border Patrol in the U.S.-Mexico Borderlands,&quot; which is under contract with University of California Press.</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.history.ucla.edu/people/faculty?lid=3315</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Philip</Data></Cell>
+    <Cell><Data ss:Type="String">Martin</Data></Cell>
+    <Cell><Data ss:Type="String">martin@primal.ucdavis.edu</Data></Cell>
+    <Cell><Data ss:Type="String">Professor</Data></Cell>
+    <Cell><Data ss:Type="String">Agricultural &amp; Resource Economics</Data></Cell>
+    <Cell><Data ss:Type="String">UC Davis</Data></Cell>
+    <Cell><Data ss:Type="String">Martin does research on farm labor, labor migration, economic development, and immigration issues, and has testified before Congress and state and local agencies numerous times on these issues.</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.agecon.ucdavis.edu/people/faculty/page.php?id=75</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Marjorie</Data></Cell>
+    <Cell><Data ss:Type="String">Orellana</Data></Cell>
+    <Cell><Data ss:Type="String">orellana@gseis.ucla.edu</Data></Cell>
+    <Cell><Data ss:Type="String">Associate Professor</Data></Cell>
+    <Cell><Data ss:Type="String">Education</Data></Cell>
+    <Cell><Data ss:Type="String">UCLA</Data></Cell>
+    <Cell><Data ss:Type="String">Sociocultural approaches to the study of language, literacy, learning and identity construction; Latino immigrant children's experiences in urban school communities.</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.gseis.ucla.edu/faculty/members/orellana</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Lorena</Data></Cell>
+    <Cell><Data ss:Type="String">Oropeza</Data></Cell>
+    <Cell><Data ss:Type="String">lboropeza@ucdavis.edu</Data></Cell>
+    <Cell><Data ss:Type="String">Associate Professor</Data></Cell>
+    <Cell><Data ss:Type="String">History</Data></Cell>
+    <Cell><Data ss:Type="String">UC Davis</Data></Cell>
+    <Cell><Data ss:Type="String">Chicano/a History; History of American Foreign Relations</Data></Cell>
+    <Cell><Data ss:Type="String">http://history.ucdavis.edu/faculty/Oropeza_Lorena</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">David</Data></Cell>
+    <Cell><Data ss:Type="String">Pedersen</Data></Cell>
+    <Cell><Data ss:Type="String">dpedersen@dss.ucsd.edu</Data></Cell>
+    <Cell><Data ss:Type="String">Assistant Professor</Data></Cell>
+    <Cell><Data ss:Type="String">Anthropology</Data></Cell>
+    <Cell><Data ss:Type="String">UC San Diego</Data></Cell>
+    <Cell><Data ss:Type="String">David Pedersen is an expert on relations between El Salvador and the United States, particularly the recent decades of Salvadoran migration to major US cities and the circulation of remittances in El Salvador. He is a social, cultural and historical anthropologist broadly interested in questions concerning modernity, capitalism and imperialism.</Data></Cell>
+    <Cell><Data ss:Type="String">http://cilas.ucsd.edu/expert_sheet/Pedersen_D.php</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Giovanni</Data></Cell>
+    <Cell><Data ss:Type="String">Peri</Data></Cell>
+    <Cell><Data ss:Type="String">gperi@ucdavis.edu  </Data></Cell>
+    <Cell><Data ss:Type="String">Associate Professor</Data></Cell>
+    <Cell><Data ss:Type="String">Economics</Data></Cell>
+    <Cell><Data ss:Type="String">UC Davis</Data></Cell>
+    <Cell><Data ss:Type="String">He does research on Human Capital, Innovation and Growth and recently he has focused on the impact of immigration on labor markets, housing markets and productivity. In the summer 2007 he received a John D. and Catherine T. MacArthur Foundation Grant for the Study of International Migration.</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.econ.ucdavis.edu/people_faculty_info.cfm?eid=132</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Cecilia</Data></Cell>
+    <Cell><Data ss:Type="String">Rivas</Data></Cell>
+    <Cell><Data ss:Type="String">cmrivas@ucsc.edu</Data></Cell>
+    <Cell><Data ss:Type="String">Assistant Professor</Data></Cell>
+    <Cell><Data ss:Type="String">Latin American and Latino Studies</Data></Cell>
+    <Cell><Data ss:Type="String">UC Santa Cruz</Data></Cell>
+    <Cell><Data ss:Type="String">Salvadoran transnationalism; media (Internet, newspapers); migration; globalization; race, ethnicity, and gender; bilingualism; consumption; El Salvador; Central America</Data></Cell>
+    <Cell><Data ss:Type="String">http://lals.ucsc.edu/directory/details.php?id=54</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Alex M.</Data></Cell>
+    <Cell><Data ss:Type="String">Saragoza</Data></Cell>
+    <Cell><Data ss:Type="String">alexsara@berkeley.edu</Data></Cell>
+    <Cell><Data ss:Type="String">Associate Professor</Data></Cell>
+    <Cell><Data ss:Type="String">Chicano Studies</Data></Cell>
+    <Cell><Data ss:Type="String">UC Berkeley</Data></Cell>
+    <Cell><Data ss:Type="String">Alex M. Saragoza received his Ph.D. in Latin American history from University of California, San Diego. A specialist on modern Mexico. Saragoza's work delves into the intersections of Latin American history with that of the United States as a consequence of migration. His research has examined the structural origins of Mexican migration, focusing on the role of the state in the process of the concentration of wealth and power in Mexico. In addition, he has done research on the transnational aspects of cultural formations in Mexico, including work on Mexican cinema, radio and television. His current interests center on ideology and representation from a transnational perspective.</Data></Cell>
+    <Cell><Data ss:Type="String">http://ethnicstudies.berkeley.edu/faculty/saragoza</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Felicity </Data></Cell>
+    <Cell><Data ss:Type="String">Schaeffer-Grabiel</Data></Cell>
+    <Cell><Data ss:Type="String">fsg@ucsc.edu</Data></Cell>
+    <Cell><Data ss:Type="String">Assistant Professor</Data></Cell>
+    <Cell><Data ss:Type="String">Feminist Studies</Data></Cell>
+    <Cell><Data ss:Type="String">UC Santa Cruz</Data></Cell>
+    <Cell><Data ss:Type="String">Transnational feminism, migration, Latin American/Latino studies, Chicana/o studies, technology and the body, sexuality</Data></Cell>
+    <Cell><Data ss:Type="String">http://feministstudies.ucsc.edu/facGrabiel.html</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Michael Peter</Data></Cell>
+    <Cell><Data ss:Type="String">Smith</Data></Cell>
+    <Cell><Data ss:Type="String">mpsmith@ucdavis.edu</Data></Cell>
+    <Cell><Data ss:Type="String">Chair</Data></Cell>
+    <Cell><Data ss:Type="String">Community Studies and Development Unit</Data></Cell>
+    <Cell><Data ss:Type="String">UC Davis</Data></Cell>
+    <Cell><Data ss:Type="String">Michael Peter Smith's research interests are situated within the interdisciplinary field of urban studies. He has written extensively and published several influential books on cities and urbanism, global migration, and transnationalism. During the past decade he has been engaged in comparative historical and qualitative ethnographic research on the impacts of transnational socio-cultural, economic, and political practices linking cities and regions in California to other localities and regions across the globe. His current research agenda places special emphasis on the forging of transnational political ties by Mexican migrants in California and their consequences on both sides of the U.S.-Mexican border.</Data></Cell>
+    <Cell><Data ss:Type="String">http://hcd.ucdavis.edu/faculty/webpages/smith/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">J. Edward</Data></Cell>
+    <Cell><Data ss:Type="String">Taylor</Data></Cell>
+    <Cell><Data ss:Type="String">taylor@primal.ucdavis.edu</Data></Cell>
+    <Cell><Data ss:Type="String">Professor and Director</Data></Cell>
+    <Cell><Data ss:Type="String">Rural Economics of the Americas and Pacific Rim (REAP)</Data></Cell>
+    <Cell><Data ss:Type="String">UC Davis</Data></Cell>
+    <Cell><Data ss:Type="String">My research is concentrated in population, microeconomic development, and farm labor. The core of my work in microeconomic development has been the application of household-farm modeling techniques to the study of a range of economic problems in less developed countries, including internal and international migration, the adoption of new agricultural technologies, preservation of biodiversity, and nutrient demand. My early work was among the first to empirically test propositions of the new economics of labor migration. Building on household-farm models, I have developed micro economy-wide (including village) models utilizing computable general equilibrium techniques. Applications of these models explore impacts of migration, policy changes, and market reforms on rural economies in a diversity of less developed country (LDC) settings. Current projects utilize these modeling techniques to examine impacts of NAFTA and agricultural policy reforms on migration and incomes in village and village-town economies in Mexico and impacts of tourism in Ecuador's Galapagos Islands and in the Bay Islands of Honduras. This modeling is supported by extensive household-farm surveys. In recent years my students have done Ph.D. and MS research involving a diversity of topics and regions that include Mexico, Central America, Ecuador's Galapagos Islands, China, Zambia, and Turkey.</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.agecon.ucdavis.edu/people/faculty/page.php?id=110</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Abel Jr. </Data></Cell>
+    <Cell><Data ss:Type="String">Valenzuela</Data></Cell>
+    <Cell><Data ss:Type="String">abel@ucla.edu</Data></Cell>
+    <Cell><Data ss:Type="String">Professor</Data></Cell>
+    <Cell><Data ss:Type="String">Chicana/o Studies</Data></Cell>
+    <Cell><Data ss:Type="String">UCLA</Data></Cell>
+    <Cell><Data ss:Type="String">Professor Valenzuela holds a joint appointment in the Department of Urban Planning and the César E. Chávez Department for Chicana/o Studies.  His research is primarily concerned with the issues faced by minorities and immigrants in the U.S.  His work focuses on three key interrelated areas: 1) immigration and labor markets, 2) poverty and inequality, and 3) immigrant settlement patterns.  His work combines ethnographic, in-depth interviews, participant observation, and quantitative methods to document and explain the processes that govern the incorporation of immigrants to the U.S. Professor Valenzuela is currently working on further publishing articles and completing a manuscript on day labor in a national context. His groundbreaking work on day labor continues to drive his primary research agenda. In addition, Professor Valenzuela is undertaking research on non-union supermarket janitors (subcontractors), immigrant-serving community based organizations, and the organizing campaigns of security guards and car wash attendants.</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.chavez.ucla.edu/valenzuela.html</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Roger</Data></Cell>
+    <Cell><Data ss:Type="String">Waldinger</Data></Cell>
+    <Cell><Data ss:Type="String">waldinge@soc.ucla.edu</Data></Cell>
+    <Cell><Data ss:Type="String">Distinguished Professor</Data></Cell>
+    <Cell><Data ss:Type="String">Sociology</Data></Cell>
+    <Cell><Data ss:Type="String">UCLA</Data></Cell>
+    <Cell><Data ss:Type="String">International migration, race and ethnicity.  My research concerns international migration to the United States: its social, political, and economic consequences; the policies and politics emerging in response to its advent; the links between immigrants in the United States and the countries and people they have left behind.</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.soc.ucla.edu/people/faculty?lid=847</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Miriam</Data></Cell>
+    <Cell><Data ss:Type="String">Wells</Data></Cell>
+    <Cell><Data ss:Type="String">mjwells@ucdavis.edu</Data></Cell>
+    <Cell><Data ss:Type="String">Professor</Data></Cell>
+    <Cell><Data ss:Type="String">Human and Community Development</Data></Cell>
+    <Cell><Data ss:Type="String">UC Davis</Data></Cell>
+    <Cell><Data ss:Type="String">Political and economic anthropology, ethnicity, economic development, unionization/social movements, immigration and immigration policy, the social organization of agriculture</Data></Cell>
+    <Cell><Data ss:Type="String">http://hcd.ucdavis.edu/faculty/webpages/wells/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Patricia</Data></Cell>
+    <Cell><Data ss:Type="String">Zavella</Data></Cell>
+    <Cell><Data ss:Type="String">zavella@ucsc.edu</Data></Cell>
+    <Cell><Data ss:Type="String">Professor and Chair</Data></Cell>
+    <Cell><Data ss:Type="String">Latin American and Latino Studies</Data></Cell>
+    <Cell><Data ss:Type="String">UC Santa Cruz</Data></Cell>
+    <Cell><Data ss:Type="String">Chicana/o-Latina/o studies, women's work and domestic labor, poverty, family, sexuality and social networks, feminist studies, ethnographic research methods, and transnational migration of Mexicana/o workers and U.S. capital</Data></Cell>
+    <Cell><Data ss:Type="String">http://lals.ucsc.edu/directory/details.php?id=9</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Elana</Data></Cell>
+    <Cell><Data ss:Type="String">Zilberg</Data></Cell>
+    <Cell><Data ss:Type="String">ezilberg@ucsd.edu</Data></Cell>
+    <Cell><Data ss:Type="String">Assistant Professor</Data></Cell>
+    <Cell><Data ss:Type="String">Communications</Data></Cell>
+    <Cell><Data ss:Type="String">UC San Diego</Data></Cell>
+    <Cell><Data ss:Type="String">Elana Zilberg research interests lie at the borders of anthropology and cultural geography, and of Latino and Latin American Studies.  Her current work on the policing and deportation of Salvadoran immigrant gang (affiliated, alleged and affected) youth and their reception in El Salvador, examines the production of transnational space and identity at the nexus of migration, violence and security. She also works on communication and consumption networks between immigrants in the US and their families in Latin America. She teaches courses on representation, consumption, violence, space and place, cultural poetics, globalization, neoliberalism, and ethnography.</Data></Cell>
+    <Cell><Data ss:Type="String">http://communication.ucsd.edu/people/f_zilberg.html</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>-4</HorizontalResolution>
+    <VerticalResolution>-4</VerticalResolution>
+   </Print>
+   <PageLayoutZoom>0</PageLayoutZoom>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>35</ActiveRow>
+     <ActiveCol>7</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+  <Sorting xmlns="urn:schemas-microsoft-com:office:excel">
+   <Sort>Column B</Sort>
+  </Sorting>
+ </Worksheet>
+</Workbook>

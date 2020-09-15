@@ -1,0 +1,334 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>boo hoo</Author>
+  <LastAuthor>clrc</LastAuthor>
+  <Created>2008-07-03T17:46:05Z</Created>
+  <LastSaved>2009-02-20T23:52:03Z</LastSaved>
+  <Company>boohoo</Company>
+  <Version>12.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <DownloadComponents/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>11640</WindowHeight>
+  <WindowWidth>15480</WindowWidth>
+  <WindowTopX>555</WindowTopX>
+  <WindowTopY>1875</WindowTopY>
+  <Date1904/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Verdana"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62" ss:Name="Hyperlink">
+   <Font ss:FontName="Verdana" ss:Color="#0000FF" ss:Underline="Single"/>
+  </Style>
+  <Style ss:ID="s64" ss:Parent="s62">
+   <Alignment ss:Vertical="Bottom"/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s66" ss:Parent="s62">
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Color="#0000FF"
+    ss:Underline="Single"/>
+  </Style>
+  <Style ss:ID="s67">
+   <Font ss:FontName="Verdana" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="s68">
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Names>
+   <NamedRange ss:Name="_FilterDatabase" ss:RefersTo="=Sheet1!#REF!" ss:Hidden="1"/>
+  </Names>
+  <Table ss:ExpandedColumnCount="8" ss:ExpandedRowCount="23" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="54">
+   <Column ss:Index="7" ss:AutoFitWidth="0" ss:Width="66.75"/>
+   <Row>
+    <Cell><Data ss:Type="String">Sylvia </Data></Cell>
+    <Cell><Data ss:Type="String">Aquino</Data></Cell>
+    <Cell ss:StyleID="s64" ss:HRef="mailto:smaquino@ucdavis.edu"><Data
+      ss:Type="String">smaquino@ucdavis.edu</Data></Cell>
+    <Cell><Data ss:Type="String">Lecturer</Data></Cell>
+    <Cell><Data ss:Type="String">Education</Data></Cell>
+    <Cell><Data ss:Type="String">UC Davis</Data></Cell>
+    <Cell><Data ss:Type="String">Classroom discourse; Classroom management/Discipline; Educational equity; Educational Leadership; Gay and lesbian issues in education; Hispanic culture; Human resource issues and collective bargaining; In-service and preservice teacher learning; Interdisciplinary Instruction; Secondary Education; Teacher evaluation; Women's leadership issues</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://education.ucdavis.edu/faculty/profile.php?person=0589"><Data
+      ss:Type="String">http://education.ucdavis.edu/faculty/profile.php?person=0589</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Jeanett</Data></Cell>
+    <Cell><Data ss:Type="String">Castellanos</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="mailto:castellj@uci.edu"><Data ss:Type="String">castellj@uci.edu</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Director</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Social Science Academic Resource Center</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">UC Irvine</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Racial ethnic minority issues in higher education, Latina/os in higher education</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">http://www.socsci.uci.edu/ssarc/staff.html</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Griselda</Data></Cell>
+    <Cell><Data ss:Type="String">Castro</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="mailto:gcastro@ucdavis.edu"><Data
+      ss:Type="String">gcastro@ucdavis.edu</Data></Cell>
+    <Cell><Data ss:Type="String">Assistant Vice-Chancelor</Data></Cell>
+    <Cell><Data ss:Type="String">Student Affairs</Data></Cell>
+    <Cell><Data ss:Type="String">UC Davis</Data></Cell>
+    <Cell><Data ss:Type="String">the Chicana/o studies department on campus, Griselda Castro advises students on their troubles at both school and home. She participates in university student affairs and educational equity committees and serves as a liaison between students and faculty members in the Chicana/o Studies program.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://www-dateline.ucdavis.edu/012601/DL_castro.html</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Cynthia</Data></Cell>
+    <Cell><Data ss:Type="String">Feliciano</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="mailto:felician@uci.edu"><Data ss:Type="String">felician@uci.edu</Data></Cell>
+    <Cell><Data ss:Type="String">Associate Professor</Data></Cell>
+    <Cell><Data ss:Type="String">Sociology</Data></Cell>
+    <Cell><Data ss:Type="String">UC Irvine</Data></Cell>
+    <Cell><Data ss:Type="String">Race/Ethnicity/Minority Relations, Migration and Immigration, Education. Feliciano, Cynthia in 2006 published “Beyond the Family: The Influence of Pre-migration Group Status on the Educational Expectations of Immigrants’ Children.” Sociology of Education, 79(October): 281-303.</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.faculty.uci.edu/profile.cfm?faculty_id=5100"><Data
+      ss:Type="String">http://www.faculty.uci.edu/profile.cfm?faculty_id=5100</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Richard </Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Figueroa</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="mailto:rafigueroa@ucdavis.edu"><Data
+      ss:Type="String">rafigueroa@ucdavis.edu.</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Professor</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Education</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">UC Davis</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">A professor of education at UC Davis who focuses on bilingual special education. If bilingual education is eliminated from California's public schools, he says, many children will be wrongly diagnosed as mildly retarded or learning disabled simply because they don't speak English well enough. Figueroa, co-author of the book &quot;Bilingualism and Testing: A Special Case of Bias,&quot; advises the Los Angeles Unified School District on how to provide special education for children who are from Hispanic and potentially bilingual families. </Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.news.ucdavis.edu/sources/latino_health_ed.lasso"><Data
+      ss:Type="String">http://www.news.ucdavis.edu/sources/latino_health_ed.lasso</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Patricia</Data></Cell>
+    <Cell><Data ss:Type="String">Gandara</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="mailto:gandara@gseis.ucla.edu"
+     x:HRefScreenTip="send an e-mail to this faculty member"><Data ss:Type="String">gandara@gseis.ucla.edu</Data></Cell>
+    <Cell><Data ss:Type="String">Professor</Data></Cell>
+    <Cell><Data ss:Type="String">Education</Data></Cell>
+    <Cell><Data ss:Type="String">UCLA</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Professor Gándara is co-director of The Civil Rights Project/Proyecto Derechos Civiles at UCLA. Her research focuses on educational equity and access for low income and ethnic minority students, language policy, and the education of Mexican origin youth. She has just completed a study (with R. Rumberger) entitled Resource Needs for California's English Learners, as part of the statewide adequacy project funded by four major foundations. She is the author of numerous articles and several books, including the forthcoming, Understanding the Latino Education Gap, Why Latinos Don't Go to College, with Harvard University Press.</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.gseis.ucla.edu/faculty/members/gandara"><Data
+      ss:Type="String">http://www.gseis.ucla.edu/faculty/members/gandara</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Margaret</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Gibson</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="mailto:ggibson@ucsc.edu"><Data ss:Type="String">ggibson@ucsc.edu</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Professor</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Education &amp; Anthropology</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">UC Santa Cruz</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Immigrants and education; minority status and schooling; ethnicity, class, gender, and educational processes; peer influences and school performance; secondary education; migrant education; transitions to college; qualitative research methods; Mexican American youth; Punjabi Sikhs in the U.S.</Data></Cell>
+    <Cell><Data ss:Type="String">http://education.ucsc.edu/directory/details.php?id=2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Manuel</Data></Cell>
+    <Cell><Data ss:Type="String">Gomez </Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="mailto:mngomez@uci.edu"><Data ss:Type="String">mngomez@uci.edu</Data></Cell>
+    <Cell><Data ss:Type="String">Vice Chancellor</Data></Cell>
+    <Cell><Data ss:Type="String">Students Affairs</Data></Cell>
+    <Cell><Data ss:Type="String">UC Irvine</Data></Cell>
+    <Cell><Data ss:Type="String">A strong advocate of deep and lasting educational change, Manuel Gómez has worked for more than thirty years to expand educational opportunity and promote innovative academic partnerships. His work on behalf of students began in the Oakland school district, where he pioneered workshops on multicultural curricula and teaching practices to enhance learning. Manuel was also an early advocate for including parents in the process of educational improvement and school change. Dr. Gómez is the administrative representative invited to be a member of the UC Academic Planning Council. He served as a group leader on the Strategic Review Panel on Outreach in 2002, and currently participates in the UC Admissions Study Group. He also serves on the board of the Merage Family Foundation, Children First. He has served as vice chair of the St. Joseph's Ballet Board in Santa Ana, Ca. He was a founding board member of the Health Foundation for Orange County and also served as chair of the United Way's Hispanic Development Council</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.vcsa.uci.edu/vc_about.php</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Cristina</Data></Cell>
+    <Cell><Data ss:Type="String">Gonzalez</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">crigonzalez@ucdavis.edu</Data></Cell>
+    <Cell><Data ss:Type="String">Professor</Data></Cell>
+    <Cell><Data ss:Type="String">Education; Spanish</Data></Cell>
+    <Cell><Data ss:Type="String">UC Davis</Data></Cell>
+    <Cell><Data ss:Type="String">Hispanic culture; History of Latinos in the U.S.; History of higher education; History of the University of California; Minority leadership issues; Status of the Spanish language in the U.S.; Undergraduate education issues; Women's leadership issues Graduate Education and the Diversity Debate,” THE COMMUNICATOR, 35, 4 (2002), pp. 1, 2 &amp; 7. “Speaking a Language of Color: A Personal Reflection on the Rise of Spanish,” THE HISPANIC OUTLOOK IN HIGHER EDUCATION, 13, 16 (2003), pp. 24-26.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://www.law.ucdavis.edu/faculty/chacon.shtml</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Aida </Data></Cell>
+    <Cell><Data ss:Type="String">Hurtado</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="mailto:aida@ucsc.edu"><Data ss:Type="String">aida@ucsc.edu</Data></Cell>
+    <Cell><Data ss:Type="String">Professor</Data></Cell>
+    <Cell><Data ss:Type="String">Psychology</Data></Cell>
+    <Cell><Data ss:Type="String">UC Santa Cruz</Data></Cell>
+    <Cell><Data ss:Type="String">Aida Hurtado's research focuses on the effects of subordination on social identity, the part of the self that is related to significant group memberships. She is especially interested in those group memberships (e.g., ethnicity, race, class, and gender) that are derogated in this society and are used to legitimate unequal distribution of power between groups. Her multidisciplinary perspective has emerged from the social psychological literature on social identity and language attitudes, the methodological literature on surveys, and feminist theory. She uses a variety of methods ranging from ethnography to survey research, which is the core of her training.</Data></Cell>
+    <Cell><Data ss:Type="String">http://psych.ucsc.edu/directory/details.php?id=14</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Lina</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Mendez-Benavidez</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="mailto:lrbenavidez@ucdavis.edu"><Data
+      ss:Type="String">lrbenavidez@ucdavis.edu</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Teacher Assistant</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Education</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">UC Davis</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Méndez-Benavídez, Lina., R. (2005). &quot;Bilingual Latinos' code-switching during story telling starting at age four&quot; Poster Presentation at International Symposium of Bilingualism 5. Barcelona, Spain. English Learners; Language, Literacy, and Culture; Qualitative Data Analysis; School Organization and Educational Policy; Undergraduate Education Issues; Urban Education</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://education.ucdavis.edu/students/directory/profile.php?person=7571"><Data
+      ss:Type="String">http://education.ucdavis.edu/students/directory/profile.php?person=7571</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Barbara</Data></Cell>
+    <Cell><Data ss:Type="String">Merino</Data></Cell>
+    <Cell ss:StyleID="s64" ss:HRef="mailto:bjmerino@ucdavis.edu"><Data
+      ss:Type="String">bjmerino@ucdavis.edu</Data></Cell>
+    <Cell><Data ss:Type="String">Professor; Director of Teacher Education</Data></Cell>
+    <Cell><Data ss:Type="String">Education</Data></Cell>
+    <Cell><Data ss:Type="String">UC Davis</Data></Cell>
+    <Cell><Data ss:Type="String">Latina/o educational issues; Literacy development; Science Literacy; Secondary Education; Science Education; Sociolinguistics and psycholinguistics; Teacher education research and policy; Teaching of Spanish to native Spanish speakers. Member. Association of Mexican American Educators</Data></Cell>
+    <Cell ss:StyleID="s64" ss:HRef="http://education.ucdavis.edu/faculty/profile.php?person=0201"><Data
+      ss:Type="String">http://education.ucdavis.edu/faculty/profile.php?person=0201</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Eduardo </Data></Cell>
+    <Cell><Data ss:Type="String">Mosquera</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="mailto:mosqueda@ucsc.edu"><Data
+      ss:Type="String">mosqueda@ucsc.edu</Data></Cell>
+    <Cell><Data ss:Type="String">Assistant Profesor</Data></Cell>
+    <Cell><Data ss:Type="String">Eduacation</Data></Cell>
+    <Cell><Data ss:Type="String">UC Santa Cruz</Data></Cell>
+    <Cell><Data ss:Type="String">Mathematics education of English learners; large-scale dataset quantitative analysis; urban education issues; how school context factors such as academic tracking and the segregation of low-income students impact the mathematics achievement of English Learners (ELs). His current study, funded by UC ACCORD, investigates whether or not high school students’ access to social capital (access to resources that provide academic and social support from parents, teachers, peers, and in-school adults) differs for students of different racial/ethnic backgrounds in diverse high schools, and in turn, how this mediates their academic achievement.</Data></Cell>
+    <Cell><Data ss:Type="String">http://education.ucsc.edu/directory/details.php?id=75</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Maria del Pilar</Data></Cell>
+    <Cell><Data ss:Type="String">O'Cadiz</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="mailto:mpocadiz@uci.edu"><Data ss:Type="String">mpocadiz@uci.edu</Data></Cell>
+    <Cell><Data ss:Type="String">Research Specialist</Data></Cell>
+    <Cell><Data ss:Type="String">Education</Data></Cell>
+    <Cell><Data ss:Type="String">UC Irvine</Data></Cell>
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40">A first generation Mexican American, Maria del Pilar O’Cadiz completed her MA in Latin American Studies along with an M.Ed. in Curriculum, Administration, and Teaching at the University of California, Los Angeles. Prior to attending UCLA, O’Cadiz received a BA (a double major in Latin American Studies and Spanish) in 1986 from Oberlin College.&#160; As an undergraduate she studied at the University of Cordoba in Spain, and at the University of Sao Paulo in Brazil during her graduate studies. She completed her doctorate studies at UCLA in 1996 and was awarded the Comparative and International Education Society’s Gail Kelly Outstanding Dissertation Award for her dissertation, <I>The Politics of Schooling in Brazil: A Freirean Curriculum Reform in the Municipal Schools of São Paulo</I><Font>. This research was published in </Font><I>Anthropology and Education Quarterly, </I><Font>UNESCO, in several book chapters, and in a coauthored book, </Font><I>Education and Democracy: Paulo Freire, Social Movements and Educational Reform in São Paulo</I><Font>. (O’Cadiz, M. P., Torres, C. A., and Lindquist Wong, P., 1998)</Font><I>.She is currently working on a study—under Principal Investigators,  Deborah Vandell and Mark Waschauer and co-researcher Valerie Hall—of a technology rich community learning center providing middle and high school students’ career exploration experiences to diverse youth in Southern California. In addition to carrying out qualitative observations of the program’s activities, O’Cadiz has conducted case studies of a selected sample of participating youth and their parents to discern the role that the center plays in their lives, with a particular focus on the center as a transitional space for immigrant youth.</I></ss:Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.gse.uci.edu/person/mocadiz/mocadiz_responsibilities.php"><Data
+      ss:Type="String">http://www.gse.uci.edu/person/mocadiz/mocadiz_responsibilities.php</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Leticia</Data></Cell>
+    <Cell><Data ss:Type="String">Oseguera</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="mailto:leticia.oseguera@uci.edu"><Data
+      ss:Type="String">leticia.oseguera@uci.edu</Data></Cell>
+    <Cell><Data ss:Type="String">Assistant Professor</Data></Cell>
+    <Cell><Data ss:Type="String">Education</Data></Cell>
+    <Cell><Data ss:Type="String">UC Irvine</Data></Cell>
+    <Cell><Data ss:Type="String">Leticia Oseguera is an Assistant Professor in the Department of Education with a joint appointment in the Department of Chicano/Latino Studies. Dr. Oseguera received her Ph.D. in Higher Education and Organizational Change from UCLA in 2004. Currently, Leticia is working on a project funded by the Mott Foundation examining promising after-school programs for low-income youth. She has also been awarded a UC ACCORD grant for her work examining social capital differences across different racial/ethnic youth attending Southern California high schools.</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.gse.uci.edu/loseguera"><Data
+      ss:Type="String">http://www.gse.uci.edu/loseguera</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Lucinda</Data></Cell>
+    <Cell><Data ss:Type="String">Pease-Alvarez</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="mailto:pease@ucsc.edu"><Data ss:Type="String">pease@ucsc.edu</Data></Cell>
+    <Cell><Data ss:Type="String">Associate Professor</Data></Cell>
+    <Cell><Data ss:Type="String">Eduacation</Data></Cell>
+    <Cell><Data ss:Type="String">UC Santa Cruz</Data></Cell>
+    <Cell><Data ss:Type="String">Language and literacy development, bilingual language socialization, bilingual/multicultural education, teacher development and community involvement. Publications: Transforming Perspectives on Bilingual Language Socialization. In R. Bayley and S. Schecter (Eds.), Language socialization in bi- and multi-cultural societies. Clevedon, England: Multilingual Matters, forthcoming. Moving Beyond Linear Trajectories of Language Shift and Bilingual Language Socialization. Hispanic Journal of Behavioral Sciences, 2002, 24(2), 114-137. Spanish Proficiency and Language Use in a California Mexicano Community (with K. Hakuta and R. Bayley), Southwest Journal of Linguistics, 1998, 1&amp;2(15), 137-152.</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.chavez.ucla.edu/raulhinjosaojeda.htm"><Data
+      ss:Type="String">http://www.chavez.ucla.edu/raulhinjosaojeda.htm</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Claudia </Data></Cell>
+    <Cell><Data ss:Type="String">Pineda</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="mailto:sguilfoy@uci.edu"><Data ss:Type="String">Claudia.Pineda@uci.edu</Data></Cell>
+    <Cell><Data ss:Type="String">Research Specialist</Data></Cell>
+    <Cell><Data ss:Type="String">Education</Data></Cell>
+    <Cell><Data ss:Type="String">UC Irvine</Data></Cell>
+    <Cell><Data ss:Type="String">Her academic interests are twofold: On the one hand, she is focused on immigration research, specifically on the educational and psychosocial impact of family separations on the children left behind due to parental international migration. On the other hand, Pineda is interested in youth risk-taking behavior and resilience. She has worked on various research and evaluation studies of prevention programs aimed at promoting positive development in youth. Her dissertation integrated both interests by focusing on the ethnic identity and psychosocial development of immigrant Colombian youth in the context of an artistic intervention that taught them to dance and perform Colombian folkloric dances in Boston. Pineda has been an instructor at Harvard and at Northeastern University. Recently she was a Visiting Scholar at the Latin American Studies Program at Cornell University. Pineda published an encyclopedia chapter with Michael J. Nakkula on Students at Risk and is currently co-editing a book on Colombia Migration.</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://www.gse.uci.edu/person/cpineda/cpineda_biography.php"><Data
+      ss:Type="String">http://www.gse.uci.edu/person/cpineda/cpineda_biography.php</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Gloria </Data></Cell>
+    <Cell><Data ss:Type="String">Rodriguez</Data></Cell>
+    <Cell ss:StyleID="s64" ss:HRef="mailto:gmrodriguez@ucdavis.edu"><Data
+      ss:Type="String">gmrodriguez@ucdavis.edu</Data></Cell>
+    <Cell><Data ss:Type="String">Assistant Professor</Data></Cell>
+    <Cell><Data ss:Type="String">Education</Data></Cell>
+    <Cell><Data ss:Type="String">UC Davis</Data></Cell>
+    <Cell><Data ss:Type="String">Gloria Rodriguez (Ph.D. Stanford) Language minority status issues in schooling; Latina/o educational issues; Minority/Underrepresented Students; School finance</Data></Cell>
+    <Cell ss:StyleID="s64" ss:HRef="http://education.ucdavis.edu/faculty/profile.php?person=0663"><Data
+      ss:Type="String">http://education.ucdavis.edu/faculty/profile.php?person=0663</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Daniel</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Solorzano</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="mailto:solorzano@gseis.ucla.edu"
+     x:HRefScreenTip="send an e-mail to this faculty member"><Data ss:Type="String">solorzano@gseis.ucla.edu</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Professor</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Social Science &amp; Comparative Education</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">UCLA</Data></Cell>
+    <Cell><Data ss:Type="String">Critical race and gender theory in education, racial marginality and microaggressions in education, and race/ethnic, gender, and class relations with a special emphasis on the educational access, persistence, and graduation of Students of Color in the United States.</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.gseis.ucla.edu/faculty/members/solorzano</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Kip </Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Telez</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="mailto:ktellez@ucsc.edu"><Data ss:Type="String">ktellez@ucsc.edu</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Associate Professor</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Education</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">UC Santa Cruz</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Preparation of teachers for linguistic and cultural diversity, second language learning, studies of the school curriculum, educational assessment</Data></Cell>
+    <Cell><Data ss:Type="String">http://lals.ucsc.edu/directory/details.php?id=32</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Larry </Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Trujillo</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="mailto:larryt@ucsc.edu"><Data ss:Type="String">larryt@ucsc.edu</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Executive Director</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Student Academic Support Services</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">UC Santa Cruz</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Chicana/o studies, ethnic studies, grassroots community organizations, prison-industrial complex, student development, Chicano music</Data></Cell>
+    <Cell><Data ss:Type="String">http://lals.ucsc.edu/directory/details.php?id=33</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Merna</Data></Cell>
+    <Cell><Data ss:Type="String">Villarejo</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="mailto:mrvillarejo@ucdavis.edu"><Data
+      ss:Type="String">mrvillarejo@ucdavis.edu</Data></Cell>
+    <Cell><Data ss:Type="String">Professor Emerita</Data></Cell>
+    <Cell><Data ss:Type="String">Education</Data></Cell>
+    <Cell><Data ss:Type="String">UC Davis</Data></Cell>
+    <Cell><Data ss:Type="String">Minority access to science careers Ph.D., University of Chicago, Biochemistry, 1963</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://myprofile.cos.com/villarem38"><Data
+      ss:Type="String">http://myprofile.cos.com/villarem38</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Maria Estela</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Zarate</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="mailto:zaratem@uci.edu"><Data ss:Type="String">zaratem@uci.edu</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Assistant Professor</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Education</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">UC Irvine</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Prof. Zarate’s research interests are equitable access to higher education, college persistence among first-generation students, the educational trajectory of Latino students, family and social context of Latino students’ educational experiences, schooling conditions, and gender differences in schooling experiences.&#160; Prof. Zarate has employed various methodological approaches in her research, including survey methods and qualitative methodology.</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.gse.uci.edu/person/mzarate/mzarate_biography.php</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>-4</HorizontalResolution>
+    <VerticalResolution>-4</VerticalResolution>
+   </Print>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>13</ActiveRow>
+     <ActiveCol>6</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

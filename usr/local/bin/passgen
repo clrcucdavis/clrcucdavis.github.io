@@ -1,0 +1,10 @@
+#!/usr/bin/python
+import random
+import sys
+if len(sys.argv) > 1:
+        length = int(sys.argv[1])
+else:
+        length = 8
+password = ''.join([random.choice('ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrtuvwxyz0123456789') for x in xrange(length)])
+print password
+
